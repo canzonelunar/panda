@@ -1,12 +1,12 @@
 Components found on the white Panda.
 
-*TOP side (when you openup your Panda):*
+**TOP side (when you openup your Panda):**
 - ESP-12 (wifi replaced by GPS module in grey version)
 - RGB LED
 - ST1S40 3A DC step-down regulator (components and its placement is exactly as manufacturer note says)
 - some passive components like diodes, resistors, capacitors
 
-*BOTTOM invisible side:*
+**BOTTOM invisible side:**
 
 - U1 - STM32F413 (main microcontroller with 3x CAN ability)
 - U6,7,8 - 3 times nxp TJA1042 (https://www.nxp.com/docs/en/data-sheet/TJA1042.pdf) in HVSON8 package
