@@ -4,6 +4,7 @@ Components found on the white Panda.
 - ESP-12 (wifi replaced by GPS module in grey version)
 - RGB LED
 - ST1S40 3A DC step-down regulator (components and its placement is exactly as manufacturer note says)
+  https://www.st.com/resource/en/datasheet/stm32f413rg.pdf
 - some passive components like diodes, resistors, capacitors
 
 **BOTTOM invisible side:**
