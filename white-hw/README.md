@@ -14,7 +14,7 @@ Components found on the white Panda.
 - U2 - 2549Q - AutomotiveUSB ChargingPort Controller (http://www.ti.com.cn/cn/lit/ds/slusce3/slusce3.pdf)
 - Y1 - 16MHz oscilator AH7P (SMD version)
 - U10 - NCP5661 fidex 3.3V https://www.onsemi.com/pub/Collateral/NCP5661-D.PDF
-- U9 -  1 wire CAN - https://www.onsemi.com/pub/Collateral/NCV7356-D.PDF
+- U9 -  1 wire CAN (GM LAN?) - https://www.onsemi.com/pub/Collateral/NCV7356-D.PDF
 - U3 - 2x LIN interface NXP TJA1022 in HVSON14 package https://www.nxp.com/docs/en/data-sheet/TJA1022.pdf
 - Q1 - looks like transistor (https://www.diodes.com/assets/Datasheets/ds30330.pdf ?) N29 T1 markings on it
 - everything else are passives like for TOP side
