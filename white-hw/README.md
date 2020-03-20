@@ -20,3 +20,9 @@ Components found on the white Panda.
 - Q1 - looks like transistor (https://www.diodes.com/assets/Datasheets/ds30330.pdf ?) N29 T1 markings on it
 - everything else are passives like for TOP side
 
+**Pictures:**
+top
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
+bottom
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
