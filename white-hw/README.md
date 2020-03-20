@@ -21,8 +21,9 @@ Components found on the white Panda.
 - everything else are passives like for TOP side
 
 **Pictures:**
+
 top
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![](https://raw.githubusercontent.com/martiinezz/panda/master/white-hw/panda-t.jpg | width=300)
 
 bottom
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![](https://raw.githubusercontent.com/martiinezz/panda/master/white-hw/panda-b.jpg | width=300)
