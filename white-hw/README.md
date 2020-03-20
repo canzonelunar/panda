@@ -23,7 +23,7 @@ Components found on the white Panda.
 **Pictures:**
 
 top
-![](https://raw.githubusercontent.com/martiinezz/panda/master/white-hw/panda-t.jpg | width=300)
+![Panda top](https://raw.githubusercontent.com/martiinezz/panda/master/white-hw/panda-t.jpg | width=300)
 
 bottom
-![](https://raw.githubusercontent.com/martiinezz/panda/master/white-hw/panda-b.jpg | width=300)
+![Panda bottom](https://raw.githubusercontent.com/martiinezz/panda/master/white-hw/panda-b.jpg | width=300)
