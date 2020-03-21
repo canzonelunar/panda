@@ -9,8 +9,8 @@ Components found on the white Panda.
 
 **BOTTOM invisible side:**
 
-- U1 - STM32F413 (main microcontroller with 3x CAN ability)
-- U6,7,8 - 3 times nxp TJA1042 (https://www.nxp.com/docs/en/data-sheet/TJA1042.pdf) in HVSON8 package
+- U1 - STM32F413 (main microcontroller with 3xCAN ability)
+- U6,7,8 - 3 times NXP TJA1042 (https://www.nxp.com/docs/en/data-sheet/TJA1042.pdf) in HVSON8 package
 - U2 - 2549Q - AutomotiveUSB ChargingPort Controller (http://www.ti.com.cn/cn/lit/ds/slusce3/slusce3.pdf)
   16-PinQFN(3x3 mm) Package
 - Y1 - 16MHz oscilator AH7P (SMD version)
